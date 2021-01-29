@@ -1,2 +1,1 @@
-# deno-userland-ideas
-Suggestions for projects made by the Denoland community, for the Denoland communiity
+https://github.com/ebebbington/deno-userland-ideas/wiki/Deno-Userland-Ideas
